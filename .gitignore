@@ -1,0 +1,7 @@
+/build/
+/results/*.txt
+/results/*.csv
+/results/models/*.mph
+/results/figures/*.png
+*.log
+*.class
