@@ -1,0 +1,30 @@
+{
+  "r_max": 0.004,
+  "z_max": 0.003,
+  "vessel_diameter": 8e-05,
+  "vessel_depth": 0.0007,
+  "nr": 60,
+  "nz": 72,
+  "dt": 0.0002,
+  "n_pulses": 5,
+  "perfusion_on": true,
+  "laser": {
+    "mode": "578",
+    "a578": 500000000.0,
+    "mu578": 1500.0,
+    "a511": 450000000.0,
+    "mu511": 2200.0,
+    "p578": 0.7,
+    "p511": 0.3,
+    "w0": 0.0006,
+    "tp": 0.0015,
+    "f": 10.0
+  },
+  "bc": {
+    "outer_r": "insulated",
+    "outer_h": 12.0,
+    "top_h": 22.0,
+    "tamb": 293.15,
+    "zmax": "dirichlet"
+  }
+}
