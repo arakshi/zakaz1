@@ -1,0 +1,4 @@
+r_max,z_max,vessel_diameter,vessel_depth,nr,nz,dt,n_pulses,perfusion_on,laser.mode,laser.a578,laser.mu578,laser.a511,laser.mu511,laser.p578,laser.p511,laser.w0,laser.tp,laser.f
+0.004,0.003,8e-05,0.0007,40,48,0.0004,4,True,578,5e8,1500,4.5e8,2200,0.7,0.3,0.0006,0.0012,10
+0.004,0.003,1.2e-04,0.001,40,48,0.0004,4,True,578_511,5e8,1500,4.5e8,2200,0.6,0.4,0.0008,0.0014,8
+0.004,0.003,6e-05,0.0005,40,48,0.0004,5,True,578,5e8,1500,4.5e8,2200,0.7,0.3,0.0005,0.0009,14
